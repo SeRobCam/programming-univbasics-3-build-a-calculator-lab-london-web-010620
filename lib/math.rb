@@ -19,8 +19,8 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  rem = (num2).reminder(num1)
-  return 
+  rem = num2.reminder(num1)
+  return rem
 end
 
 def square_root(num)
