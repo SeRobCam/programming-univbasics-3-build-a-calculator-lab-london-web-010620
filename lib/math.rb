@@ -19,9 +19,11 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-
+  reminder = (num2 / num1)
+  return 
 end
 
 def square_root(num)
-
+  square = Math.sqrt(num)
+  return square
 end
