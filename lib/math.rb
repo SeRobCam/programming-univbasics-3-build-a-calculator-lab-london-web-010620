@@ -19,7 +19,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  remind = num2.remainder(num1)
+  remind = num1.remainder(num2)
   return remind
 end
 
